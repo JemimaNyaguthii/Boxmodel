@@ -1,0 +1,12 @@
+.content{
+    border-style: solid;
+    padding: 20px;
+    margin:5%;
+    border-color: blueviolet;
+    font-style: italic;
+
+}
+.box{
+    border-style: dotted;
+    border-color: #f06595;
+}
